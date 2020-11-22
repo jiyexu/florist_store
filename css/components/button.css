@@ -1,0 +1,15 @@
+.btn-green{
+	background-color: #295638;
+	height: 100px;
+	padding: 15px 20px;
+	border-radius:6px;
+	color: white;
+	font-weight: bold;
+	font-family: "Lora", serif;
+}
+
+.btn-green:hover{
+	background-color:#C44665;
+	color: white;
+	transition: color 0.5s ease;
+}
